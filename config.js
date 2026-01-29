@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dbzvyjxie/video/upload/v1769719656/Jung_Kook_-_Standing_Next_To_You_Lyrics_t5dwyh.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 0.2                       // Volume level (0.0 to 1.0)
     }
 };
 
